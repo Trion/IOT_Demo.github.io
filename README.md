@@ -4,4 +4,4 @@ chart js and html
    > Chartjs https://www.chartjs.org/
    > BootStrap https://getbootstrap.com/
 2. Demo 
-  ![Demo]()
+  ![Demo,](https://github.com/Trion/IOT_Demo.github.io/blob/master/Demo.png)
